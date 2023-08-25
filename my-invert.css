@@ -1,0 +1,7 @@
+.my-invert {
+    filter: invert(0.85);
+}
+
+.my-invert img {
+    filter: invert(1) !important;
+}
